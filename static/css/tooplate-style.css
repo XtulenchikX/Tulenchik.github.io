@@ -307,7 +307,7 @@ html {
 
 .section-heading {
     text-align: left;
-    padding: 60px 0 40px 0;
+    padding: 60px 0 20px 0;
 }
 
 .section-heading h2 {
@@ -317,7 +317,7 @@ html {
 }
 
 .section-heading .line-dec {
-    max-width: 500px;
+    max-width: 600px;
     height: 3px;
     background-color: #fff;
     margin: 20px 0;
@@ -374,8 +374,8 @@ button:hover {
 /* Left & Right Post */
 
 .right-image-post {
-    margin-bottom: 60px;
-    padding-bottom: 60px;
+    margin-bottom: 30px;
+    /* padding-bottom: 60px; */
 }
 
 .left-image img,
